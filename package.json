@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "lucide-react": "^0.514.0",
+    "react-redux": "^9.2.0",
+    "redux-thunk": "^3.1.0"
+  }
+}
